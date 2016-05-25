@@ -1,6 +1,22 @@
 .column {
     width: 300px;
     float: left;
+    background-color: #2AE8D2;
+    border-color: purple;
+    border-style: dashed;
+
+}
+
+.demo {
+    width: 300px;
+    float: left;
+    background-color: gold;
+}
+
+.new {
+    width: 300px;
+    float: left;
+    background-color: #A6A098;
 }
 
 img {
